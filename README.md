@@ -1,16 +1,8 @@
 # Hi, I'm Dhia 👋
 
-💻 Junior Software Engineer (.NET)
+💻 Junior Software Engineer 
 
 I focus on building clean, structured, and maintainable applications using modern development practices.
-
-## 🧠 Tech
-
-- C# / .NET / ASP.NET Core
-- Entity Framework Core
-- WPF
-- Symfony (PHP)
-- SQL
 
 ## 📫 Contact
 
