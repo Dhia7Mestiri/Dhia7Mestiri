@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dhia 👋
 
-<!--
-**Dhia7Mestiri/Dhia7Mestiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Engineer (.NET)
 
-Here are some ideas to get you started:
+I focus on building clean, structured, and maintainable applications using modern development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech
+
+- C# / .NET / ASP.NET Core
+- Entity Framework Core
+- WPF
+- Symfony (PHP)
+- SQL
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/dhia-mestiri-6b063b258/
